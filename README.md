@@ -1,4 +1,4 @@
-# Project Title
+# Polaris
 
 Script Hub and Custom Scripts
 
@@ -15,27 +15,22 @@ An in-depth paragraph about your project and overview of use.
 
 ### Executing
 
-* Join the discord discord.gg/polarishub and 
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+* Join the discord discord.gg/polarishub and execute the script in #scripts
+* For any support ask for help in the discord
 ```
-code blocks for commands
+discord.gg/polarishub
 ```
 
 ## Help
 
-Any advise for common problems or issues.
+Ask any help in the discord server
 ```
-command to run if program contains helper info
+discord.gg/polarishub
 ```
 
 ## Authors
 
-Contributors names and contact info
+Contributors names
 
 carti6ix
 discord.gg/polarishub  
