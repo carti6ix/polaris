@@ -4,7 +4,7 @@ Script Hub and Custom Scripts
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+An advanced script hub and custom scripts
 
 ## Getting Started
 
